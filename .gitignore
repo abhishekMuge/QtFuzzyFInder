@@ -1,0 +1,28 @@
+# Qt build and temporary files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.moc
+*.obj
+*.o
+*.a
+*.so
+*.d
+*.dll
+*.dSYM
+*.swp
+*.swo
+*.bak
+
+# Build directories
+build-*/
+cmake-build-*/
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Logs and caches
+*.log
+*.cache
